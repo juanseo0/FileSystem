@@ -72,7 +72,7 @@ The Directory is a simple mapping from filename to Inode number (see later). Eac
 up to 15 characters long (plus a trailing NUL).
 
 
-### cpp files
+### Files
 
 - bfs.h/c : Functions internal to bfs
 - bio.h/c : Lowest level block io functions
