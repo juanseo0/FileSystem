@@ -1,6 +1,6 @@
 # BFS - a Unix-Like FileSystem
 
-This program is aims to replicate a Unix-like filesystem.
+This program aims to replicate a Unix-like filesystem.
 
 The filesystem comprises 3 layers. From top to bottom, these are:
  - fs – user-level filesystem, with functions like fsOpen, fsRead, fsSeek, fsClose.
